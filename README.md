@@ -24,7 +24,17 @@ title="js" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
 title="js" width="40" height="40"/>&nbsp;      
           
+<h2>Libraries & frameworks</h2>
 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg"
+title="python" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg"
+title="python" width="40" height="40"/>&nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Created_with_Matplotlib-logo.svg/2048px-Created_with_Matplotlib-logo.svg.png"
+title="python" width="40" height="40"/>&nbsp;
+<img src="https://seaborn.pydata.org/_images/logo-tall-lightbg.svg"
+title="python" width="40" height="40"/>&nbsp;
+          
 <h2>Experience</h2>  
 
 
