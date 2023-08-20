@@ -37,13 +37,13 @@ title="seaborn" width="40" height="40"/>&nbsp;
           
 <h2>Contacts</h2>  
 
-
-
-<div>
-<a href="https://linkedin.com/in/anikanovama">
-<img src="https://w7.pngwing.com/pngs/1/41/png-transparent-telegram-button-icon.png" alt="LinkedIn" /> </a>
-
-<a href="https://t.me/maymiya">
-<img src="https://w7.pngwing.com/pngs/1/41/png-transparent-telegram-button-icon.png" alt="Telegram" 
-</a> </div>
+<div style="display: flex; gap: 10px;">
+    <a href="https://linkedin.com/in/anikanovama">
+        <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/linkedin_button_icon_151847.png" alt="LinkedIn" width="40" height="40" />
+    </a>
+    
+    <a href="https://t.me/maymiya">
+        <img src="https://w7.pngwing.com/pngs/1/41/png-transparent-telegram-button-icon.png" alt="Telegram" width="40" height="40" />
+    </a>
+</div>
 
