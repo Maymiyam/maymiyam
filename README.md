@@ -39,10 +39,10 @@ title="seaborn" width="40" height="40"/>&nbsp;
 
 <div style="display: flex; gap: 10px;">
     <a href="https://linkedin.com/in/anikanovama">
-        <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/linkedin_button_icon_151847.png" alt="LinkedIn" style="width: 40px; height: 40px;" />
+        <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/linkedin_button_icon_151847.png" alt="LinkedIn" style="width: auto; height: 40px;" />
     </a>
     <a href="https://t.me/maymiya">
-        <img src="https://w7.pngwing.com/pngs/1/41/png-transparent-telegram-button-icon.png" alt="Telegram" style="width: 40px; height: 40px;" />
+        <img src="https://w7.pngwing.com/pngs/1/41/png-transparent-telegram-button-icon.png" alt="Telegram" style="width: auto; height: 40px;" />
     </a>
 </div>
 
