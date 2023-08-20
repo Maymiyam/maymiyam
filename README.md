@@ -35,7 +35,7 @@ title="matplotlib" width="40" height="40"/>&nbsp;
 <img src="https://seaborn.pydata.org/_images/logo-tall-lightbg.svg"
 title="seaborn" width="40" height="40"/>&nbsp;
           
-<h2>Experience</h2>  
+<h2>Contacts</h2>  
 
 
 
@@ -45,6 +45,6 @@ title="seaborn" width="40" height="40"/>&nbsp;
 
 <a href="https://t.me/maymiya">
 <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-
-badged&logo=telegram&logoColor=white" alt="Telegram"/>
+badged&logo=telegram&logoColor=white" alt="Telegram" 
 </a> </div>
 
