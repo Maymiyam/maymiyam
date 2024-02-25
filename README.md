@@ -16,10 +16,8 @@ Analytics and Metrics • Data Analysis • Machine Learning • Statistical Mod
 
 <h2> Languages </h2>
 
-<img src="https://drive.google.com/file/d/1rN2hPQxztyIxGrw3806a2EDUvSOJoNj9/view?usp=drive_link"
-          title="python" width="40" height="40"/>&nbsp;
-<img src="https://drive.google.com/file/d/16hc1Q6Dt4bY4_5Eo-W9v_Bp5fgj4yQq4/view?usp=sharing"
-title="sql" width="40" height="40"/>&nbsp;
+<img src="https://drive.google.com/uc?id=1rN2hPQxztyIxGrw3806a2EDUvSOJoNj9" title="python" width="40" height="40" />&nbsp;
+<img src="https://drive.google.com/uc?id=16hc1Q6Dt4bY4_5Eo-W9v_Bp5fgj4yQq4" title="sql" width="40" height="40" />&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
 title="js basics" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
