@@ -16,29 +16,25 @@ Analytics and Metrics • Data Analysis • Machine Learning • Statistical Mod
 
 <h2> Languages </h2>
 
-<img src="https://drive.google.com/uc?id=1rN2hPQxztyIxGrw3806a2EDUvSOJoNj9" title="python" width="60" height="60" />&nbsp;
-<img src="https://drive.google.com/uc?id=16hc1Q6Dt4bY4_5Eo-W9v_Bp5fgj4yQq4" title="sql" width="60" height="60" />&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
-title="js basics" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
-title="html basics" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
-title="css basics" width="40" height="40"/>&nbsp;      
+<img src="https://drive.google.com/uc?id=1rN2hPQxztyIxGrw3806a2EDUvSOJoNj9" title="python" width="80" height="80" />&nbsp;
+<img src="https://drive.google.com/uc?id=16hc1Q6Dt4bY4_5Eo-W9v_Bp5fgj4yQq4" title="sql" width="80" height="80" />&nbsp;
+<img src="https://drive.google.com/uc?id=10CFtVncFA23BuyiXunyHoMSxIHFhiaax" title="html, css, js" width="80" height="80" />&nbsp;
           
-<h2>Libraries & frameworks</h2>
+<h2>Libraries & Frameworks</h2>
 
-<img src="https://drive.google.com/uc?id=1nggbFoPoL7Gk3kvt-Pe7TeIwaDnMRqud" title="numpy" width="60" height="60" />&nbsp;
-<img src="https://drive.google.com/uc?id=1zhEM-AgcSR5IMa-6Q5YiO0Jmp93oi97x" title="pandas" width="60" height="60" />&nbsp;
-<img src="https://drive.google.com/uc?id=1DmcXlLyG3OW0TDbzaqobGG08GsWRdkYs" title="matplotlib" width="60" height="60" />&nbsp;
-<img src="https://drive.google.com/uc?id=1rgPhHpAsw78qV2v611vhta8Rf9vsXKrt" title="seaborn" width="60" height="60" />&nbsp;
-<img src="https://drive.google.com/uc?id=18FwBxlOztgD2GlhZcRR9xEW6M6knw2vg" title="scikit-learn" width="60" height="60" />&nbsp;
-<img src="https://drive.google.com/uc?id=1EdW93KsLhIEdj3OAo0d-C1kTdLSy1cGx" title="pytorch" width="60" height="60" />&nbsp;
+<img src="https://drive.google.com/uc?id=1nggbFoPoL7Gk3kvt-Pe7TeIwaDnMRqud" title="numpy" width="80" height="80" />&nbsp;
+<img src="https://drive.google.com/uc?id=1zhEM-AgcSR5IMa-6Q5YiO0Jmp93oi97x" title="pandas" width="80" height="80" />&nbsp;
+<img src="https://drive.google.com/uc?id=1DmcXlLyG3OW0TDbzaqobGG08GsWRdkYs" title="matplotlib" width="80" height="80" />&nbsp;
+<img src="https://drive.google.com/uc?id=1rgPhHpAsw78qV2v611vhta8Rf9vsXKrt" title="seaborn" width="80" height="80" />&nbsp;
+<img src="https://drive.google.com/uc?id=18FwBxlOztgD2GlhZcRR9xEW6M6knw2vg" title="scikit-learn" width="80" height="80" />&nbsp;
+<img src="https://drive.google.com/uc?id=1EdW93KsLhIEdj3OAo0d-C1kTdLSy1cGx" title="pytorch" width="80" height="80" />&nbsp;
 
 <h2>Tools</h2>
-<img src="https://drive.google.com/uc?id=1zVPpDKVEqMDHHj-hBTDSu4psXFFWBum0" title="tableau" width="60" height="60" />&nbsp;
-<img src="https://drive.google.com/uc?id=1W0xfcHLvJ8VxWaWbOKA2Bp_rj3feH3CZ" title="google colab" width="60" height="60" />&nbsp;
-<img src="https://drive.google.com/uc?id=1pKcST16skPDl6zomP8iy8bnDpdddBBRa" title="vscode" width="60" height="60" />&nbsp;
-<img src="https://drive.google.com/uc?id=1okjAtlVf--GEE7RC9KnAV2pUyNzYaOWl" title="dbeaver" width="60" height="60" />&nbsp;
+
+<img src="https://drive.google.com/uc?id=1zVPpDKVEqMDHHj-hBTDSu4psXFFWBum0" title="tableau" width="80" height="80" />&nbsp;
+<img src="https://drive.google.com/uc?id=1W0xfcHLvJ8VxWaWbOKA2Bp_rj3feH3CZ" title="google colab" width="80" height="80" />&nbsp;
+<img src="https://drive.google.com/uc?id=1pKcST16skPDl6zomP8iy8bnDpdddBBRa" title="vscode" width="80" height="80" />&nbsp;
+<img src="https://drive.google.com/uc?id=1okjAtlVf--GEE7RC9KnAV2pUyNzYaOWl" title="dbeaver" width="80" height="80" />&nbsp;
       
 <h2>Contact me</h2>  
 
