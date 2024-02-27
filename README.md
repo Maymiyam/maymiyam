@@ -1,6 +1,6 @@
 <div id-"header' align-"center">
 <h1> Hi there, I'm Maria 👋 </h1>
-<h3> Data Scientist from Tbilisi </h3>
+<h3> Data Scientist with a digital marketing background </h3>
 </div>
 
 <h2>About me</h2>
